@@ -1,6 +1,5 @@
 # PythonLiveStreaming
 
-# Python_YOLOV5_Basler_Opencv
 ## Install
 Support python version 3.7.9 
 ```
